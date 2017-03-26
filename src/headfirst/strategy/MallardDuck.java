@@ -1,15 +1,15 @@
 package headfirst.strategy;
 
 public class MallardDuck extends Duck {
- 
- public MallardDuck() {
-   //fb = new FlyWithWings(); //아랫줄 대신 이렇게 해도 됨
-   
-   flyBehavior = new FlyWithWings();
-   quackBehavior = new Quack();   
- }
- 
- public void display() {
-  System.out.println("I'm a real Mallard duck");
- }
+  
+  public MallardDuck() {
+    //fb = new FlyWithWings(); //아랫줄 대신 이렇게 해도 됨
+    
+    flyBehavior = new FlyWithWings();
+    quackBehavior = new Quack();
+  }
+  
+  public void display() {
+    System.out.println("I'm a real Mallard duck");
+  }
 }
