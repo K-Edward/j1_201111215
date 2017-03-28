@@ -46,8 +46,8 @@ public class SortVersion2 {
     //문자열을 역으로 sort하는 ReverseComparator 사용
     String[] name1 = {"John", "Adam", "Skrien", "Smith", "Jones"}; //이름 배열
     
-    Comparator reverseComp = new ReverseComparator();
-    //Sorter.sort(name1, reverseComp);
+    Comparator reverseComp = new ReverseComparator(stringComp);
+    Sorter.sort(name1, reverseComp);
     
     //역 문자열 sort 결과 출력
     for(int i=0; i<name1.length; i++){

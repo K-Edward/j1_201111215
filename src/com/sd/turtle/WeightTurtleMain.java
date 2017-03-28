@@ -1,7 +1,7 @@
 package com.sd.turtle;
 
 import java.awt.Color;
-import ch.aplu.turtle.*;
+//import ch.aplu.turtle.*;
 
 public class WeightTurtleMain {
   public static void main(String[] args) {

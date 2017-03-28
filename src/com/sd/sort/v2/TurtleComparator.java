@@ -1,6 +1,6 @@
 package com.sd.sort.v2;
 
-import ch.aplu.turtle.*;
+//import ch.aplu.turtle.*;
 import com.sd.turtle.WeightTurtle;
 
 //객체(?)를 sort해주는 comparator이다.
