@@ -9,10 +9,6 @@ public class CalcAreaListener implements ActionListener {
     
     JButton b = (JButton)e.getSource();
     
-    JTextField radius = (JTextField)e.getSource();
-    
-    System.out.println(radius);
-    
     String cmd = e.getActionCommand();
     
     if(cmd.equals("°è»ê")) {

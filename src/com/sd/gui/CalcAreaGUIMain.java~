@@ -21,6 +21,7 @@ public class CalcAreaGUIMain {
     
     b1.addActionListener(new CalcAreaListener());
     b2.addActionListener(new CalcAreaListener());
+    radiusTf1.addActionListener(new CalcAreaListener());
     
     panel.add(label1);
     panel.add(radiusTf1);
