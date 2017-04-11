@@ -3,192 +3,204 @@
   <project autorefresh="false" build="classes/" root="" work="">
     <createjar file=""/>
     <source>
-      <file active="true" name="src/headfirst/decorator/starbuzz/StarbuzzCoffee.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 14:51:22">
-        <select from="600" to="600"/>
+      <file active="true" name="src/headfirst/decorator/starbuzz/StarbuzzCoffee.java" package="headfirst.decorator.starbuzz" timestamp="11-Apr-2017 13:40:59">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/observer/weather/ForecastDisplay.java" package="headfirst.observer.weather" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/observer/weather/ForecastDisplay.java" package="headfirst.observer.weather" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/observer/weather/CurrentConditionDisplay.java" package="headfirst.observer.weather" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/observer/weather/CurrentConditionDisplay.java" package="headfirst.observer.weather" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/sort/v1/Weight.java" package="com.sd.sort.v1" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/sort/v1/Weight.java" package="com.sd.sort.v1" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/strategy/FlyNoWays.java" package="headfirst.strategy" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/strategy/FlyNoWays.java" package="headfirst.strategy" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/strategy/QuackBehavior.java" package="headfirst.strategy" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/strategy/QuackBehavior.java" package="headfirst.strategy" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/strategy/Quack.java" package="headfirst.strategy" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/strategy/Quack.java" package="headfirst.strategy" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/strategy/FlyBehavior.java" package="headfirst.strategy" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/strategy/FlyBehavior.java" package="headfirst.strategy" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/strategy/FlyRocketPowered.java" package="headfirst.strategy" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/strategy/FlyRocketPowered.java" package="headfirst.strategy" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/strategy/FlyWithWings.java" package="headfirst.strategy" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/strategy/FlyWithWings.java" package="headfirst.strategy" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/strategy/MallardDuck.java" package="headfirst.strategy" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/strategy/MallardDuck.java" package="headfirst.strategy" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/strategy/Duck.java" package="headfirst.strategy" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/strategy/Duck.java" package="headfirst.strategy" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/strategy/ModelDuck.java" package="headfirst.strategy" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/strategy/ModelDuck.java" package="headfirst.strategy" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/strategy/MiniDuckSimulator1.java" package="headfirst.strategy" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/strategy/MiniDuckSimulator1.java" package="headfirst.strategy" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/strategy/DecoyDuck.java" package="headfirst.strategy" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/strategy/DecoyDuck.java" package="headfirst.strategy" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/strategy/MuteQuack.java" package="headfirst.strategy" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/strategy/MuteQuack.java" package="headfirst.strategy" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/strategy/RubberDuck.java" package="headfirst.strategy" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/strategy/RubberDuck.java" package="headfirst.strategy" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/strategy/RedHeadDuck.java" package="headfirst.strategy" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/strategy/RedHeadDuck.java" package="headfirst.strategy" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/sort/v0/SortVersion0.java" package="com.sd.sort.v0" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/sort/v0/SortVersion0.java" package="com.sd.sort.v0" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/sort/v2/Comparator.java" package="com.sd.sort.v2" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/sort/v2/Comparator.java" package="com.sd.sort.v2" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/sort/v2/DateComparator.java" package="com.sd.sort.v2" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/sort/v2/DateComparator.java" package="com.sd.sort.v2" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/sort/v2/IntegerComparator.java" package="com.sd.sort.v2" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/sort/v2/IntegerComparator.java" package="com.sd.sort.v2" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/sort/v2/ReverseComparator.java" package="com.sd.sort.v2" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/sort/v2/ReverseComparator.java" package="com.sd.sort.v2" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/sort/v2/SortVersion2.java" package="com.sd.sort.v2" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/sort/v2/SortVersion2.java" package="com.sd.sort.v2" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/sort/v2/Sorter.java" package="com.sd.sort.v2" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/sort/v2/Sorter.java" package="com.sd.sort.v2" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/sort/v2/StringComparator.java" package="com.sd.sort.v2" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/sort/v2/StringComparator.java" package="com.sd.sort.v2" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/sort/v2/TurtleComparator.java" package="com.sd.sort.v2" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/sort/v2/TurtleComparator.java" package="com.sd.sort.v2" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/gui/CalcAreaListener.java" package="com.sd.gui" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/gui/CalcAreaListener.java" package="com.sd.gui" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/gui/CalcAreaGUIMain.java" package="com.sd.gui" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/gui/CalcAreaGUIMain.java" package="com.sd.gui" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/observer/weather/Subject.java" package="headfirst.observer.weather" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/observer/weather/Subject.java" package="headfirst.observer.weather" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/observer/weather/Observer.java" package="headfirst.observer.weather" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/observer/weather/Observer.java" package="headfirst.observer.weather" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/observer/weather/DisplayElement.java" package="headfirst.observer.weather" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/observer/weather/DisplayElement.java" package="headfirst.observer.weather" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/observer/weather/WeatherStation.java" package="headfirst.observer.weather" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/observer/weather/WeatherStation.java" package="headfirst.observer.weather" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/observer/weather/StatisticsDisplay.java" package="headfirst.observer.weather" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/observer/weather/StatisticsDisplay.java" package="headfirst.observer.weather" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/turtle/WeightTurtleMain.java" package="com.sd.turtle" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/turtle/WeightTurtleMain.java" package="com.sd.turtle" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/turtle/BabyTurtle.java" package="com.sd.turtle" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/turtle/BabyTurtle.java" package="com.sd.turtle" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/turtle/MomTurtle.java" package="com.sd.turtle" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/turtle/MomTurtle.java" package="com.sd.turtle" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/turtle/WeightTurtle.java" package="com.sd.turtle" timestamp="04-Apr-2017 06:36:24">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/turtle/WeightTurtle.java" package="com.sd.turtle" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/com/sd/turtle/TurtleObserverMain.java" package="com.sd.turtle" timestamp="10-Apr-2017 13:16:38">
-        <select from="600" to="600"/>
+      <file name="src/com/sd/turtle/TurtleObserverMain.java" package="com.sd.turtle" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/observer/weather/WeatherData.java" package="headfirst.observer.weather" timestamp="10-Apr-2017 13:17:30">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/observer/weather/WeatherData.java" package="headfirst.observer.weather" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/decorator/starbuzz/Beverage.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 14:21:30">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/decorator/starbuzz/Beverage.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/decorator/starbuzz/CondimentDecorator.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 14:28:17">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/decorator/starbuzz/CondimentDecorator.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/decorator/starbuzz/Mocha.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 14:38:11">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/decorator/starbuzz/Mocha.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/decorator/starbuzz/Whip.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 14:38:57">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/decorator/starbuzz/Whip.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/decorator/starbuzz/HouseBlend.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 14:42:01">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/decorator/starbuzz/HouseBlend.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/decorator/starbuzz/DarkRoast.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 14:50:47">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/decorator/starbuzz/DarkRoast.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="src/headfirst/decorator/starbuzz/Espresso.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 14:52:24">
-        <select from="600" to="600"/>
+      <file name="src/headfirst/decorator/starbuzz/Espresso.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/headfirst/decorator/starbuzz/Soy.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 09:12:02">
+        <select from="503" to="503"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/headfirst/decorator/starbuzz/Milk.java" package="headfirst.decorator.starbuzz" timestamp="11-Apr-2017 13:38:56">
+        <select from="503" to="503"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/headfirst/decorator/starbuzz/CaramelMacchiato.java" package="headfirst.decorator.starbuzz" timestamp="11-Apr-2017 13:40:33">
+        <select from="503" to="503"/>
         <scroll column="0" row="0"/>
       </file>
     </source>
@@ -198,7 +210,6 @@
       <path name="./[ Source Files ]/src/com/sd/gui/"/>
       <path name="./[ Source Files ]/src/com/sd/sort/v0/"/>
       <path name="./[ Source Files ]/src/com/sd/sort/v1/"/>
-      <path name="./[ Source Files ]/src/headfirst/strategy/"/>
     </collapsed>
     <classpath>
       <file absolute="false" name="lib/aplu5.jar"/>
