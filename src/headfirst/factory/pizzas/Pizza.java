@@ -23,4 +23,22 @@ public class Pizza{
   public void box(){
     System.out.println("Boxing " + name);
   }
+  
+  public String getName(){
+    return name;
+  }
+  
+  public String toString(){
+    StringBuffer display = new StringBuffer();
+    display.append("------- " + name + " -------\n");
+    display.append(dough + "\n");
+    display.append(sauce + "\n");
+    
+    for(int i = 0; i < toppings.size(); i++){
+      display.append((String)toppings.get(i) + "\n");
+    }
+    
+    display.append("-----------------------------");
+    return display.toString();
+  }
 }

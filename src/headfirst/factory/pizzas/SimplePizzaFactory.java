@@ -10,6 +10,12 @@ public class SimplePizzaFactory{
     else if(type.equals("pepperoni")){
       pizza = new PepperoniPizza();
     }
+    else if(type.equals("veggie")){
+      pizza = new VeggiePizza();
+    }
+    else if(type.equals("potato")){
+      pizza = new PotatoPizza();
+    }
     
     return pizza;
   }

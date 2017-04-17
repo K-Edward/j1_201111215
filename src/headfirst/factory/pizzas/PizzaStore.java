@@ -10,11 +10,12 @@ public class PizzaStore{
   public Pizza orderPizza(String type){
     Pizza pizza;
     pizza = factory.createPizza(type); //이 줄이 factory의 특징을 보여주는 line
+    System.out.println(pizza.toString());
     pizza.prepare();
     pizza.bake();
     pizza.cut();
     pizza.box();
     
     return pizza;
-  }  
+  }
 }
