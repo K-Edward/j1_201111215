@@ -7,6 +7,9 @@ public class SMPizzaStore extends PizzaStore{
     if(type.equals("cheese")){
       pizza = new SMStyleCheesePizza();
     }
+    else if(type.equals("great_hill")){
+      pizza = new SMStyleGreatHillPizza();
+    }
     
     return pizza;
   }
