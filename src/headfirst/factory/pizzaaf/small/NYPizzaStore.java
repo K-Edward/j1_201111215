@@ -10,6 +10,10 @@ public class NYPizzaStore extends PizzaStore{
       pizza.setName("New York Style Cheese Pizza");
       
     }
+    else if(type.equals("potato")){
+      //pizza = new PotatoPizza(inFac); //PotatoPizza 구현한다면 예시.
+      pizza.setName("New-York Style Potato Pizza");
+    }
     
     return pizza;
   }

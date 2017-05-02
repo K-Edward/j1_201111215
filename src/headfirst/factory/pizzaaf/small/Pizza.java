@@ -1,6 +1,6 @@
 package headfirst.factory.pizzaaf.small;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public abstract class Pizza{
   String name;
@@ -35,17 +35,19 @@ public abstract class Pizza{
     this.name = n;
   }
   
-//  public String toString(){
-//    StringBuffer display = new StringBuffer();
-//    display.append("------- " + name + " -------\n");
-//    display.append(dough + "\n");
-//    display.append(sauce + "\n");
-//    
-//    for(int i = 0; i < toppings.size(); i++){
-//      display.append((String)toppings.get(i) + "\n");
-//    }
-//    
-//    display.append("-----------------------------");
-//    return display.toString();
-//  }
+  public String toString(){
+    StringBuffer display = new StringBuffer();
+    display.append("------" + name + "------\n");
+    if(dough != null){
+      display.append(dough);
+      display.append("\n");
+    }
+    
+    if(cheese != null){
+      display.append(cheese);
+      display.append("\n");
+    }
+    
+    return display.toString();
+  }
 }

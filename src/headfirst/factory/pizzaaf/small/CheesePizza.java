@@ -4,14 +4,11 @@ public class CheesePizza extends Pizza{
   PizzaIngredientFactory inFac;
   
   public CheesePizza(PizzaIngredientFactory ingredientFac){
-    name = "NY Style Cheese Pizza";
     this.inFac = ingredientFac;
-//    dough = "Thin Crust";
-//    sauce = "Marinara Pizza Sauce";
-//    toppings.add("Grated Reggiano Cheese");
   }
   
-  void prepare(){
+  public void prepare(){
+    System.out.println("Preparing " + name);
     dough = inFac.createDough();
     cheese = inFac.createCheese();
   }
