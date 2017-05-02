@@ -9,6 +9,10 @@ public class ChicagoPizzaStore extends PizzaStore{
       pizza = new CheesePizza(inFac);
       pizza.setName("Chicago Style Cheese Pizza");
     }
+    else if(item.equals("potato")){
+      pizza = new PotatoPizza(inFac);
+      pizza.setName("Chicago Style Potato Pizza");
+    }
     
     return pizza;
   }

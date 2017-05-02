@@ -7,6 +7,7 @@ public abstract class Pizza{
   Dough dough;
   //String sauce;
   Cheese cheese;
+  Potato potato;
   ArrayList<String> toppings = new ArrayList<String>();
   
 //  public void prepare(){
@@ -45,6 +46,11 @@ public abstract class Pizza{
     
     if(cheese != null){
       display.append(cheese);
+      display.append("\n");
+    }
+    
+    if(potato != null){
+      display.append(potato);
       display.append("\n");
     }
     

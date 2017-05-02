@@ -10,5 +10,12 @@ public class PizzaTestDrive {
         
         pizza = ccS.orderPizza("cheese");
         System.out.println("2ND ORDER\n" + pizza + "\n");
+        
+        pizza = nyS.orderPizza("potato");
+        System.out.println("3RD ORDER\n" + pizza + "\n");
+        
+        pizza = ccS.orderPizza("potato");
+        System.out.println("4TH ORDER\n" + pizza + "\n");
+        
  }
 }
