@@ -26,13 +26,17 @@ public class DaoMainV0 {
       
       stmt = conn.createStatement();
       //stmt.execute(mySql);
+      
       //stmt.execute("INSERT INTO persons(name,address) VALUES('v0-1','1 Hongji Dong')");
       //stmt.execute("insert into persons(name,address) values('v0-2','2 Hongji Dong')");
       //stmt.execute("insert into persons(name,address) values('v0-3','3 Hongji Dong')");
       
+      //stmt.execute("insert into persons(name, address) values('김창환','Suwon');");
+      //stmt.execute("insert into persons(name, address) values('임종현','YeonHui Dong')");
+      
       //stmt.execute("delete from persons where id = 3 limit 1");
       
-      rs = stmt.executeQuery("SELECT name,address FROM persons WHERE id < 4 ORDER BY id");
+      rs = stmt.executeQuery("SELECT name,address FROM persons WHERE id > 4 ORDER BY id");
       
       while(rs.next()){
         System.out.println("Name : " + rs.getString("name") + ", Address : " + rs.getString("address"));
