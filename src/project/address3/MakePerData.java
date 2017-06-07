@@ -63,6 +63,7 @@ public class MakePerData{
       person.setPNum(pNum);
       person.setAddress(ars);
       personDAOImpl.insert(person);
+      System.out.println("자료를 추가했습니다.");
     }
   }
 }

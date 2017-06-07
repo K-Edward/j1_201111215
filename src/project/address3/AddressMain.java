@@ -64,7 +64,7 @@ public class AddressMain extends JFrame{
   
   
   public void openView(String option){
-    JFrame f = new JFrame();
+    JFrame f = new JFrame("주소록");
     
     JPanel panel = new JPanel();
     
@@ -182,7 +182,7 @@ public class AddressMain extends JFrame{
   
   
   public void searchView(String option){
-    JFrame f1 = new JFrame();
+    JFrame f1 = new JFrame("찾기");
     JPanel panel1 = new JPanel();
     f1.getContentPane().add(panel1);
     
@@ -235,7 +235,7 @@ public class AddressMain extends JFrame{
   }
   
   public void resultView(String option, String value){
-    JFrame f2 = new JFrame();
+    JFrame f2 = new JFrame("주소록");
     JPanel panel2 = new JPanel();
     
     f2.getContentPane().add(panel2);
@@ -246,7 +246,7 @@ public class AddressMain extends JFrame{
     PersonVO person = new PersonVO();
     
     //int tuple = personDAOImpl.countTuples();
-    Object row[][] = new Object[5][30];
+    Object row[][] = new Object[25][30];
     Object col[] = {"이름","성별","나이","연락처","주소"};
     
     if(option.equals("이름")){
@@ -292,7 +292,7 @@ public class AddressMain extends JFrame{
     String p = null;
     String ad = null;
     
-    JFrame f3 = new JFrame();
+    JFrame f3 = new JFrame("입력");
     JPanel panel3 = new JPanel(new GridLayout(6,2));
     
     f3.getContentPane().add(panel3);

@@ -5,7 +5,7 @@ import java.util.*;
 import java.io.*;
 
 public class PersonDAOImpl implements PersonDAO {
-  Connection conn=ConnectionFactory.getConnection();
+  Connection conn = ConnectionFactory.getConnection();
   PreparedStatement pstmt=null;
   ResultSet rs=null;
   
@@ -66,11 +66,11 @@ public class PersonDAOImpl implements PersonDAO {
     PersonVO person=null;
     List<PersonVO> persons = new ArrayList<PersonVO>();
     try {
-      pstmt = conn.prepareStatement("SELECT * FROM perData WHERE name=?");
-      pstmt.setString(1, name);
+      pstmt = conn.prepareStatement("SELECT * FROM perData WHERE name like ?");
+      pstmt.setString(1, "%"+name+"%");
       System.out.println("* finding by name..."+name);
       rs = pstmt.executeQuery();
-      if(rs.next()) {
+      while(rs.next()) {
         person = new PersonVO();
         person.setId(rs.getInt("id"));
         person.setName(rs.getString("name"));
@@ -92,11 +92,11 @@ public class PersonDAOImpl implements PersonDAO {
     PersonVO person=null;
     List<PersonVO> persons = new ArrayList<PersonVO>();
     try {
-      pstmt = conn.prepareStatement("SELECT * FROM perData WHERE pNumber=?");
-      pstmt.setString(1, pNum);
+      pstmt = conn.prepareStatement("SELECT * FROM perData WHERE pNumber like ?");
+      pstmt.setString(1, "%"+pNum+"%");
       System.out.println("* finding by number..."+pNum);
       rs = pstmt.executeQuery();
-      if(rs.next()) {
+      while(rs.next()) {
         person = new PersonVO();
         person.setId(rs.getInt("id"));
         person.setName(rs.getString("name"));

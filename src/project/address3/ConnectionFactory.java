@@ -23,6 +23,8 @@ public class ConnectionFactory {
         conn = DriverManager.getConnection(prop.getProperty("URL")+"?useSSL=true", prop.getProperty("USER"), prop.getProperty("PASSWORD"));
       }
       
+      //System.out.println("연결된다.");
+      
     } 
     catch (IOException e) {
       e.printStackTrace();
